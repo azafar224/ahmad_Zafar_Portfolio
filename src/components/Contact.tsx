@@ -22,7 +22,6 @@ const Contact = () => {
             </p>
             <h4>Education</h4>
             <p>BS Software Engineering — COMSATS University Islamabad</p>
-            <p>MS AI & Autonomous Systems (Ongoing) — NUST, Islamabad</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>

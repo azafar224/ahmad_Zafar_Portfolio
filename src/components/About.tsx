@@ -9,9 +9,8 @@ const About = () => {
           AI/ML Engineer with 4+ years of experience building production-ready
           machine learning systems — from fine-tuned LLMs and RAG pipelines to
           real-time computer vision and mobile ML APIs. Skilled in PyTorch,
-          TensorFlow, ONNX, TensorRT, LangChain, and FAISS. Currently pursuing
-          an MS in AI & Autonomous Systems at NUST, Islamabad, and working as
-          Lead AI Engineer at MW Apps GmbH, Germany.
+          TensorFlow, ONNX, TensorRT, LangChain, and FAISS. Currently working
+          as Lead AI Engineer at MW Apps GmbH, Germany.
         </p>
       </div>
     </div>
